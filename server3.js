@@ -3,7 +3,7 @@
 то не буде підключений компілятор Babel,
 що унеможливить підтримку директив `import`.
  */
-import { graphql, buildSchema, GraphQLSchema, GraphQLObjectType, GraphQLString } from 'graphql';
+import { graphql, buildSchema } from 'graphql';
 import express from 'express';
 import { graphqlHTTP } from 'express-graphql';
 

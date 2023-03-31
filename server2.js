@@ -1,6 +1,6 @@
 import express from 'express';
 import { graphql } from 'graphql';
-import bodyParser from 'body-parser'
+import bodyParser from 'body-parser';
 import schema from './schema';
 
 let app = express();

@@ -4,4 +4,4 @@ require('babel-register') ({
 })
 
 // підключаємо серверну частину
-module.exports = require("./server3.js")
+module.exports = require("./server4.js")
