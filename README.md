@@ -1,5 +1,5 @@
 # I'm learning GraphQL
-This is a simple Express app that creates a server for accepting GraphQL requests. It's my lab assignment.
+This is a simple Express app that creates a server for accepting GraphQL requests. It's my lab assignment. Despite the name, it also has no-GraphQL servers.
 
 ## Launch guide
 1. Clone the repo into any folder you want.
