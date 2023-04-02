@@ -23,7 +23,7 @@ app.post('/vowels', (req, res) => {
         let vowelsCounter = matches.length;
         res.send(
             "Vowels: " + JSON.stringify(matches) +
-            "\nThe passed string: " + JSON.stringify(req.body) +
+            "\nThe passed data: " + JSON.stringify(req.body) +
             "\nThere is/are " + vowelsCounter +
             " vowel(-s) in this string."
         );
